@@ -1,2 +1,2 @@
 # Prod3W
-Prod3W benchmarks and dataset.
+Prod3W benchmarks and datasets.
