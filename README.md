@@ -8,7 +8,7 @@ According to the visual and textual (speech) information, 3W aims to answer When
 ### Prod3W Datasets
 To solve 3W benchmarks, we annotate a million-scale multi-modal dataset Prod3W from Taobao Live and Shop with manual labels of 390k product presentation timestamps, 722k product spatial locations and 417k live-to-shop product pairs, covering over 1.8k categories. 
 
-Raw dataset samples are available now, including [annotations](http://tao-prod3w.oss-cn-hangzhou.aliyuncs.com/raw_samples/annotations.zip ) (74KB) and [images/videos](http://tao-prod3w.oss-cn-hangzhou.aliyuncs.com/raw_samples/items.zip) (600MB). Whole dataset will be public after acceptance.
+Raw dataset samples are [available](https://drive.google.com/drive/folders/1nKlEhatWOl8fh2WfxPcFH9-4ySsGr-B3) now, including annotations (74KB) and images/videos (600MB). Whole dataset will be public after acceptance.
 
 ### Baseline codes
 Codes will be released after acceptance.
